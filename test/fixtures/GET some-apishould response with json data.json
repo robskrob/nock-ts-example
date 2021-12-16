@@ -1,0 +1,114 @@
+[
+    {
+        "scope": "http://localhost:3000",
+        "method": "GET",
+        "path": "/some-api",
+        "body": "",
+        "status": 200,
+        "response": {
+            "product": {
+                "id": 4371657719906,
+                "title": "Soft Baked Variety Pack (6 Boxes)",
+                "body_html": "<h3>You <i>can</i> have everything! With our Soft Baked variety pack, enjoy all of our crave-worthy cookies!<br>\n</h3>\n<p><span>Snag each of our crave-worthy Soft Baked cookies and save some dough while you’re at it! Includes 2 boxes of each Soft Baked</span><span> flavor: Chocolate Chip, Cookie Butter &amp; Double Chocolate.</span></p>\n<ul></ul>",
+                "vendor": "Partake Foods",
+                "product_type": "Cookies",
+                "created_at": "2020-03-04T17:44:01-05:00",
+                "handle": "soft-baked-cookie-variety-pack",
+                "updated_at": "2021-12-16T13:18:40-05:00",
+                "published_at": "2020-07-14T12:25:21-04:00",
+                "template_suffix": "v2",
+                "published_scope": "web",
+                "tags": "All Cookies, discounted, soft baked, Soft Baked Cookies, Variety Pack",
+                "variants": [
+                    {
+                        "id": 31369041346658,
+                        "product_id": 4371657719906,
+                        "title": "Default Title",
+                        "price": "29.99",
+                        "sku": "90-07476",
+                        "position": 1,
+                        "compare_at_price": "",
+                        "fulfillment_service": "manual",
+                        "inventory_management": "shopify",
+                        "option1": "Default Title",
+                        "option2": null,
+                        "option3": null,
+                        "created_at": "2020-03-04T17:44:02-05:00",
+                        "updated_at": "2021-12-16T13:18:40-05:00",
+                        "taxable": false,
+                        "barcode": "852761007473",
+                        "grams": 0,
+                        "image_id": null,
+                        "weight": 0,
+                        "weight_unit": "lb",
+                        "requires_shipping": true
+                    }
+                ],
+                "options": [
+                    {
+                        "id": 5679229665378,
+                        "product_id": 4371657719906,
+                        "name": "Title",
+                        "position": 1,
+                        "values": [
+                            "Default Title"
+                        ]
+                    }
+                ],
+                "images": [
+                    {
+                        "id": 28196688560226,
+                        "product_id": 4371657719906,
+                        "position": 1,
+                        "created_at": "2021-10-05T07:55:47-04:00",
+                        "updated_at": "2021-10-05T07:55:55-04:00",
+                        "alt": null,
+                        "width": 3600,
+                        "height": 3600,
+                        "src": "https://cdn.shopify.com/s/files/1/0012/2296/7353/products/SL2A3213_SoftBakedvarietypack3flavors_square_trans.png?v=1633434955",
+                        "variant_ids": []
+                    },
+                    {
+                        "id": 28151261528162,
+                        "product_id": 4371657719906,
+                        "position": 2,
+                        "created_at": "2021-08-27T13:32:39-04:00",
+                        "updated_at": "2021-10-05T07:55:55-04:00",
+                        "alt": null,
+                        "width": 4457,
+                        "height": 3566,
+                        "src": "https://cdn.shopify.com/s/files/1/0012/2296/7353/products/bfd3cd84-4da3-434e-b6c8-6badaf3d08a6.SL2A3213_SoftBakedvarietypack3flavors.png?v=1633434955",
+                        "variant_ids": []
+                    }
+                ],
+                "image": {
+                    "id": 28196688560226,
+                    "product_id": 4371657719906,
+                    "position": 1,
+                    "created_at": "2021-10-05T07:55:47-04:00",
+                    "updated_at": "2021-10-05T07:55:55-04:00",
+                    "alt": null,
+                    "width": 3600,
+                    "height": 3600,
+                    "src": "https://cdn.shopify.com/s/files/1/0012/2296/7353/products/SL2A3213_SoftBakedvarietypack3flavors_square_trans.png?v=1633434955",
+                    "variant_ids": []
+                }
+            }
+        },
+        "rawHeaders": [
+            "X-Powered-By",
+            "Express",
+            "Content-Type",
+            "application/json; charset=utf-8",
+            "Content-Length",
+            "2424",
+            "ETag",
+            "W/\"978-rK23lsdfy0nW4k3/sZbDz/ccofk\"",
+            "Date",
+            "Thu, 16 Dec 2021 19:48:17 GMT",
+            "Connection",
+            "close"
+        ],
+        "responseIsBinary": false
+    }
+]
